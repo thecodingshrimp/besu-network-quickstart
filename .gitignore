@@ -1,2 +1,3 @@
 logs/
 config/besu/genesis.json
+.quorumDevQuickstart*
